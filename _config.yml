@@ -1,0 +1,28 @@
+name: gaedke
+favicon: null
+layout_spectrum: 0.8496179454959929
+typography_spectrum: 0.9724273371975869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.12335649481974542
+  lightness: 0.28316621598787606
+  saturation: 0.16864006873220205
+  rhythmicContrast: 0.36135269119404256
+purpose: []
