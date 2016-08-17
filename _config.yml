@@ -1,6 +1,6 @@
 name: gaedke
 favicon: null
-layout_spectrum: 0.8496179454959929
+layout_spectrum: 0.26025
 typography_spectrum: 0.9724273371975869
 title: gaedke
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5
+  brandStrength: 0.9375
   lightness: 0.28316621598787606
   saturation: 0.16864006873220205
   rhythmicContrast: 0.36135269119404256
